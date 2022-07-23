@@ -52,7 +52,7 @@
  <br>
 <p align="center"><img alt="Kishan Modi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chiragxd&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 <br><br>
-<img alt="Chirag Panchal's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=chiragxd&theme=dark" /></p>
+<img alt="Ketul Adesara's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=chiragxd&theme=dark" /></p>
 <br><br>
 
 
