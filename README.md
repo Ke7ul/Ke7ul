@@ -38,10 +38,10 @@
 
 <br />
 
-[website]: https://chiragxd.ml
-[facebook]: https://fb.me/ch1ragpanchal
-[instagram]: https://instagram.com/chirag2899_
-[linkedin]: https://www.linkedin.com/in/ch1ragpanchal
+[website]:
+[facebook]:
+[instagram]:
+[linkedin]:
 
 <hr>
 
@@ -50,9 +50,9 @@
  <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="60px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  <br>
-<p align="center"><img alt="Kishan Modi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chiragxd&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+<p align="center"><img alt="." src="https://github-readme-stats.vercel.app/api?username=chiragxd&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 <br><br>
-<img alt="Ketul Adesara's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=chiragxd&theme=dark" /></p>
+<img alt="Ketul Adesara's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=ke7ul&theme=dark" /></p>
 <br><br>
 
 
